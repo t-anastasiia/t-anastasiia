@@ -10,10 +10,9 @@
 <p align="center">
 <a href="https://t.me/nas_www_ay">
     <img alt="Static Badge" src="https://img.shields.io/badge/telegram--red?style=for-the-badge&logo=telegram&logoColor=white&labelColor=blue&color=blue">
-</a>
-</p>
+</a> </p>
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/gmail--red?style=flat&logo=gmail&logoColor=white&labelColor=red&color=red"> nastaytalmazan@gmail.com
+<img alt="Static Badge" src="https://img.shields.io/badge/gmail--red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red&link=copy%20gmail%20nastaytalmazan%40gmail.com">
 </p>
 
 
