@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Анимированное изображение">
+<img align="center" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Анимированное изображение">
 <h1 align="center">Привет! Меня зовут Анастасия</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h4 align="center">Студентка IT специальности, начинающая iOS разработчица</h3>
