@@ -1,7 +1,6 @@
-
 <h1 align="center">Привет! Меня зовут Анастасия</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Студентка IT специальности, начинающая iOS разработчица</h3>
+<h4 align="center">Студентка IT специальности, начинающая iOS разработчица</h3>
 
 <h3 align="center">Языки и технологии:</h3>
 <p align="center"> 
