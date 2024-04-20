@@ -14,8 +14,8 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/telegram--red?style=for-the-badge&logo=telegram&logoColor=white&labelColor=blue&color=blue">
     </a> 
 </p>
-<p style="text-align: center;">
-    <a href="mailto:nastaytalmazan@gmail.com" style="display: flex; align-items: center; justify-content: center;">
+<p align="center">
+    <a href="mailto:nastaytalmazan@gmail.com" style="display: flex; justify-content: center;">
         <img alt="Static Badge" src="https://img.shields.io/badge/gmail--red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red">
         <span>nastaytalmazan@gmail.com</span>
     </a>
