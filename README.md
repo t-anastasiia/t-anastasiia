@@ -4,19 +4,24 @@
 <h3 align="center">Студентка IT специальности, начинающая iOS разработчица</h3>
 
 <h3 align="center">Языки и технологии:</h3>
-<p align="center"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+<p align="center"> 
+    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
+</p>
 
 <h3 align="center">Тут можете связаться со мной:</h3>
 <p align="center">
-<a href="https://t.me/nas_www_ay">
-    <img alt="Static Badge" src="https://img.shields.io/badge/telegram--red?style=for-the-badge&logo=telegram&logoColor=white&labelColor=blue&color=blue">
-</a> </p>
-<div style="display: flex; align-items: center;">
-    <a href="nastaytalmazan@gmail.com">
-        <img alt="Static Badge" src="https://img.shields.io/badge/gmail--red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red">
-    </a>
-    <span style="margin-left: 10px;">nastaytalmazan@gmail.com</span>
-</div>
+    <a href="https://t.me/nas_www_ay">
+        <img alt="Static Badge" src="https://img.shields.io/badge/telegram--red?style=for-the-badge&logo=telegram&logoColor=white&labelColor=blue&color=blue">
+    </a> 
+</p>
+<p>
+    <div style="display: flex; align-items: center;">
+        <a href="mailto:nastaytalmazan@gmail.com">
+            <img alt="Static Badge" src="https://img.shields.io/badge/gmail--red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red">
+        </a>
+        <span style="margin-left: 10px;">nastaytalmazan@gmail.com</span>
+    </div> 
+</p>
 
 
 <!--
