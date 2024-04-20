@@ -9,7 +9,7 @@
 <h3 align="center">Тут можете связаться со мной:</h3>
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/telegram--blue?style=flat&logo=telegram&logoColor=white&label=telegram&labelColor=blue&color=blue&link=https%3A%2F%2Ft.me%2Fnas_www_ay">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/gmail--red?style=flat&logo=gmail&logoColor=white&labelColor=red&color=red"><title>nastaytalmazan@gmail.com</title>
 </p>
 
 
