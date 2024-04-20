@@ -12,7 +12,32 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/telegram--red?style=for-the-badge&logo=telegram&logoColor=white&labelColor=blue&color=blue">
 </a> </p>
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/gmail--red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red&link=copy%20gmail%20nastaytalmazan%40gmail.com">
+<!-- Добавим id к изображению, чтобы легче обратиться к нему в JavaScript -->
+<img id="gmailBadge" alt="Static Badge" src="https://img.shields.io/badge/gmail--red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red">
+
+<script>
+    // Получаем ссылку на изображение по его id
+    var badgeImage = document.getElementById('gmailBadge');
+
+    // Добавляем обработчик события клика
+    badgeImage.addEventListener('click', function() {
+        // Создаем временный элемент textarea
+        var textarea = document.createElement('textarea');
+        // Задаем текст для копирования
+        textarea.value = 'nastaytalmazan@gmail.com';
+        // Добавляем элемент в DOM
+        document.body.appendChild(textarea);
+        // Выделяем весь текст
+        textarea.select();
+        // Копируем текст в буфер обмена
+        document.execCommand('copy');
+        // Удаляем временный элемент
+        document.body.removeChild(textarea);
+        // Оповещаем пользователя об успешном копировании (необязательно)
+        alert('Адрес электронной почты скопирован!');
+    });
+</script>
+
 </p>
 
 
