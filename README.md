@@ -8,7 +8,7 @@
 
 <h3 align="center">Тут можете связаться со мной:</h3>
 <p align="center">
-<img src="(https://img.icons8.com/?size=512&id=9R1sV3QvY18K&format=png)"> 
+<i class="fa-brands fa-telegram"></i>
 </p>
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/gmail--red?style=flat&logo=gmail&logoColor=white&labelColor=red&color=red"> nastaytalmazan@gmail.com
