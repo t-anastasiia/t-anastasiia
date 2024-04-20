@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/gmail--red?style=flat&logo=gmail&logoColor=white&labelColor=red&color=red">
-<li>nastaytalmazan@gmail.com</li>
+<li align="center">nastaytalmazan@gmail.com</li>
 </p>
 
 
