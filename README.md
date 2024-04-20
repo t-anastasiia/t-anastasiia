@@ -1,5 +1,5 @@
 
-<h1 align="center">Привет! Меня зовут <a href="(https://github.com/t-anastasiia)" target="_blank"> Анастасия</a> 
+<h1 align="center">Привет! Меня зовут Анастасия</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Студентка IT специальности, начинающая iOS разработчица</h3>
 <h3 align="center"><img alt="Static Badge" src="https://img.shields.io/badge/telegram--blue?style=flat&logo=telegram&logoColor=white&label=telegram&labelColor=blue&color=blue&link=https%3A%2F%2Ft.me%2Fnas_www_ay">
