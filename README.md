@@ -10,7 +10,8 @@
 
 <h3 align="center">Тут можете связаться со мной:</h3>
 <p align="center">
-<a href="https://www.leetcode.com/t-anastasiia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="t-anastasiia" height="30" width="40" /></a>
+<img alt="Static Badge" src="https://img.shields.io/badge/telegram--blue?style=flat&logo=telegram&logoColor=white&label=telegram&labelColor=blue&color=blue&link=https%3A%2F%2Ft.me%2Fnas_www_ay">
+
 </p>
 
 
