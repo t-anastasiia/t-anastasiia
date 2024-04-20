@@ -17,7 +17,7 @@
 <p style="text-align: center;">
     <a href="mailto:nastaytalmazan@gmail.com" style="display: flex; align-items: center;">
         <img alt="Static Badge" src="https://img.shields.io/badge/gmail--red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red">
-        <span style="margin-left: 10px;">nastaytalmazan@gmail.com</span>
+        <span>nastaytalmazan@gmail.com</span>
     </a>
 </p>
 
