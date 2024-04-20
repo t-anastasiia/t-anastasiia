@@ -11,10 +11,12 @@
 <a href="https://t.me/nas_www_ay">
     <img alt="Static Badge" src="https://img.shields.io/badge/telegram--red?style=for-the-badge&logo=telegram&logoColor=white&labelColor=blue&color=blue">
 </a> </p>
-<p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/gmail--red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red&link=open%20page%20with%20my%20gmail%20nastaytalmazan%40gmail.com">
-
-</p>
+<div style="display: flex; align-items: center;">
+    <a href="nastaytalmazan@gmail.com">
+        <img alt="Static Badge" src="https://img.shields.io/badge/gmail--red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red">
+    </a>
+    <span style="margin-left: 10px;">nastaytalmazan@gmail.com</span>
+</div>
 
 
 <!--
