@@ -1,37 +1,7 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Пример</title>
-<style>
-    .container {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
-    }
-    .image-container {
-        display: flex;
-        align-items: center;
-        justify-content: flex-end;
-        margin-top: 20px;
-    }
-</style>
-</head>
-<body>
-
-<div class="container">
-    <h1 align="center">Привет! Меня зовут Анастасия</h1>
-    <div class="image-container">
-        <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Анимированное изображение">
-        <h4 align="center">Студентка IT специальности, начинающая iOS разработчица</h4>
-    </div>
-</div>
-
-</body>
-</html>
+<img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Анимированное изображение">
+<h1 align="center">Привет! Меня зовут Анастасия</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h4 align="center">Студентка IT специальности, начинающая iOS разработчица</h3>
 
 
 <h1 align="center">Обо мне:</h1>
