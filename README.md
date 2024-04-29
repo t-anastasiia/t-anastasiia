@@ -31,13 +31,12 @@
 <h2 align="center">Связь со мной:</h2>
 <p align="center">
     <a href="https://t.me/nas_www_ay">
-        <img alt="Static Badge" src="https://img.shields.io/badge/telegram--red?style=for-the-badge&logo=telegram&logoColor=white&labelColor=blue&color=blue">
+        <img src="https://img.shields.io/badge/telegram-2b2b2b?style=for-the-badge&logo=telegram&logoColor=0066d4"/>
     </a> 
 </p>
 <p align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/gmail--red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red">
     <a href="mailto:nastaytalmazan@gmail.com" style="display: flex; justify-content: center;">
-        <span>nastaytalmazan@gmail.com</span>
+        <img src="https://img.shields.io/badge/gmail-2b2b2b?style=for-the-badge&logo=gmail&logoColor=d4333b"/>
     </a>
 </p>
 
