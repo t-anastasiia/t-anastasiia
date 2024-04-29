@@ -9,24 +9,26 @@
 <h2 align="center">Обо мне:</h2>
        
 <div align="justify">
-       Мне 19 лет, живу в городе Владивосток. Мой путь в IT начался с изучения HTML полтора года назад, однако хватило меня всего на месяц (справедливости ради отголоски в памяти помогают сейчас оформлять профиль GitHub). Параллельно изучала Python для сдачи ЕГЭ. Сдала! Летом перед поступлением решила посмотреть, что вообще есть из языков. Сложив 2+2 (наличие макбука+желание создавать то, что сразу же смогу использовать) мой выбор пал на iOS разработку. На протяжении пары месяцев я самостоятельно читала документацию, смотрела различные бесплатные курсы, в общем погружалась. Позже наткнулась на канал Айосница, который очень меня заинтересовал. В последствии я купила там курс по iOS разработке, по которому сейчас готовлю итоговый проект.
-</div>
-<div align="justify">
-       На данный момент я полностью сконцентрированна на изучении языка Swift и разработке на нем. В будущем также планирую изучить Backend, чтобы стать full-stack разработчицей.
+    Меня зовут Анастасия, мне 19 лет! Учусь в ДВФУ на направлении "Математика и компьютерные науки", где осваиваю разные сферы программирования, а также новые языки и технологии. Однако мой фокус вне учебной деятельности - iOS разработка. А вот еще несколько фактов обо мне:
+    <ol></ol>
+    <ol>&#128105;&#8205;&#127891 Учусь в ДВФУ на направлении "Математика и компьютерные науки"</ol>
+    <ol>&#128241 В iOS разработке с августа 2023 года</ol>
+    <ol>&#127979 Отучилась 1 курс на истфаке НИУ ВШЭ и поняла, что гуманитарные специальности не мое</ol>
+    <ol>&#128161 В будущем планирую также изучить back-end разработку и стать full-stack разработчицей</ol>
 </div>
 
 <h2 align="center">Языки:</h2>
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp/c++" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </p>
 
 <h2 align="center">Стек технологий:</h2>
-<p align="center"> 
-    <img src="https://img.shields.io/badge/UIKit-2b2b2b?style=for-the-badge&logo=uikit&logoColor=3a89c9"/>
-    <img src="https://img.shields.io/badge/swiftui-2b2b2b?style=for-the-badge&logo=swift&logoColor=284ac7"/>
-    <img src="https://img.shields.io/badge/sqlite-2b2b2b?style=for-the-badge&logo=sqlite&logoColor=2875c7"/>
-    <img src="https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=c75d28"/>
-</p>
+<div id="technologies" align="center"> 
+    <img alt="uikit badge" src="https://img.shields.io/badge/UIKit-2b2b2b?style=for-the-badge&logo=uikit&logoColor=3a89c9"/>
+    <img alt="swift ui badge" src="https://img.shields.io/badge/swiftui-2b2b2b?style=for-the-badge&logo=swift&logoColor=284ac7"/>
+    <img alt="sqlite badge" src="https://img.shields.io/badge/sqlite-2b2b2b?style=for-the-badge&logo=sqlite&logoColor=2875c7"/>
+    <img alt="git badge" src="https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=c75d28"/>
+</div>
 
 <h2 align="center">Связь со мной:</h2>
 <p align="center">
@@ -39,8 +41,9 @@
         <img src="https://img.shields.io/badge/gmail-2b2b2b?style=for-the-badge&logo=gmail&logoColor=d4333b"/>
     </a>
 </p>
-
-
+<p align="center">
+    nastaytalmazan@gmail.com
+</p>
 
 
 <!--
