@@ -18,7 +18,10 @@
 
 <h2 align="center">Языки:</h2>
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp/c++" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp/c++" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
 </p>
 
 <h2 align="center">Стек технологий:</h2>
@@ -26,6 +29,7 @@
     <img alt="uikit badge" src="https://img.shields.io/badge/UIKit-2b2b2b?style=for-the-badge&logo=uikit&logoColor=3a89c9"/>
     <img alt="swift ui badge" src="https://img.shields.io/badge/swiftui-2b2b2b?style=for-the-badge&logo=swift&logoColor=284ac7"/>
     <img alt="sqlite badge" src="https://img.shields.io/badge/sqlite-2b2b2b?style=for-the-badge&logo=sqlite&logoColor=2875c7"/>
+    <img alt="git badge" src="https://img.shields.io/badge/flutter-2b2b2b?style=for-the-badge&logo=flutter&logoColor=00FFFF"/>
     <img alt="git badge" src="https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=c75d28"/>
 </div>
 
