@@ -29,6 +29,11 @@
     <img alt="uikit badge" src="https://img.shields.io/badge/UIKit-2b2b2b?style=for-the-badge&logo=uikit&logoColor=3a89c9"/>
     <img alt="swift ui badge" src="https://img.shields.io/badge/swiftui-2b2b2b?style=for-the-badge&logo=swift&logoColor=284ac7"/>
     <img alt="sqlite badge" src="https://img.shields.io/badge/sqlite-2b2b2b?style=for-the-badge&logo=sqlite&logoColor=2875c7"/>
+    <img alt="git badge" src="https://img.shields.io/badge/Swift concurrency-2b2b2b?style=for-the-badge&logo=swift&logoColor=FF4500"/>
+    <img alt="git badge" src="https://img.shields.io/badge/MVC-2b2b2b?style=for-the-badge&logo=&logoColor=FF4500"/>
+    <img alt="git badge" src="https://img.shields.io/badge/MVP-2b2b2b?style=for-the-badge&logo=&logoColor=FF4500"/>
+    <img alt="git badge" src="https://img.shields.io/badge/VIPER-2b2b2b?style=for-the-badge&logo=&logoColor=FF4500"/>
+    <img alt="git badge" src="https://img.shields.io/badge/MVVM-2b2b2b?style=for-the-badge&logo=&logoColor=FF4500"/>
     <img alt="git badge" src="https://img.shields.io/badge/flutter-2b2b2b?style=for-the-badge&logo=flutter&logoColor=00FFFF"/>
     <img alt="git badge" src="https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=c75d28"/>
 </div>
