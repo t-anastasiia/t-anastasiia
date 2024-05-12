@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Привет! Меня зовут Анастасия</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h5 align="center">Студентка IT специальности, начинающая iOS разработчица</h5>
+<h5 align="center">CS студентка, начинающая iOS разработчица</h5>
 
 
 <h2 align="center">Обо мне:</h2>
