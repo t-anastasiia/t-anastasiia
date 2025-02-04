@@ -9,7 +9,7 @@
 <h2 align="center">About me:</h2>
        
 <div align="justify">
-    My name is Anastasia, I am 20 years old! I study at the Far Eastern Federal University (DVFU) in the "Mathematics and Computer Science" program, where I am mastering various areas of programming, as well as new languages and technologies. However, my focus outside of academics is iOS development. Here are a few facts about me:
+    My name is Anastasia, I am 20 years old! I study at the Far Eastern Federal University (FEFU) in the "Mathematics and Computer Science" program, where I am mastering various areas of programming, as well as new languages and technologies. However, my focus outside of academics is iOS development. Here are a few facts about me:
     <ol></ol>
     <ol>&#128241 I've been into iOS development since August 2023</ol>
     <ol>&#127979 I started my studies at the History Department of the Higher School of Economics (HSE), but eventually realized that my passion lies in technology and programming.</ol>
