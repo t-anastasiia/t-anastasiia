@@ -1,8 +1,7 @@
 <div align="center">
     <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Анимированное изображение">
 </div>
-<h1 align="center">Hi! My name is Anastasia</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi! My name is Anastasia</a></h1>
 <h5 align="center">CS student, iOS developer</h5>
 
 
